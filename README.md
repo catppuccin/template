@@ -57,7 +57,7 @@
 </p>
 
 <p align="center">
-	Copyright &copy; 2021-present <a href="https://github.com/catppuccin" target="_blank">Catppuccin Org</a>
+	Copyright &copy; 2022-present <a href="https://github.com/catppuccin" target="_blank">Catppuccin Org</a>
 </p>
 
 <p align="center">

@@ -41,6 +41,7 @@
 3. Select `import theme` and browse to where you cloned Catppuccin
 4. Select it
 
+<!-- this section is optional -->
 ## 🙋 FAQ
 
 -	Q: **_"Where can I find the doc?"_**\

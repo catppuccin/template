@@ -1,0 +1,19 @@
+---
+app: Example
+author: Catppuccin Org
+
+accent: {{ mauve }}
+---
+
+
+### Please refer to the Whiskers documentation for further help.
+### https://github.com/catppuccin/toolbox/tree/main/whiskers
+
+
+# Catppuccin for {{ app }}
+# by {{ author }}
+
+background = "#{{ base }}"
+foregorund = "#{{ text }}"
+
+special = "#{{ accent }}"

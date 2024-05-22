@@ -1,0 +1,20 @@
+---
+accent: mauve
+whiskers:
+  version: 2.1.1
+  matrix:
+   - flavor
+  filename: "themes/{{ flavor.identifier }}.conf"
+---
+
+{#-
+This is a template for Whiskers, Catppuccin's custom templating tool.
+See https://github.com/catppuccin/toolbox/tree/main/whiskers for the documentation,
+or join our Discord to get faster help.
+-#}
+
+{%- set palette = flavor.colors -%}
+
+background = "#{{ palette.base.hex }}"
+foregorund = "#{{ palette.text.hex }}"
+special = "#{{ palette[accent].hex }}"

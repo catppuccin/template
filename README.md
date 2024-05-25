@@ -36,9 +36,9 @@
 
 ## Usage
 
-1. Download the flavor of your choice from [`themes/`](./themes/).
+1. Download the flavor of your choice.
 2. Open the app and go to **Preferences** > **Appearance** > **Import theme**.
-3. Select the theme file downloaded in Step 1.
+3. Select the downloaded flavor file.
 
 <!-- This section is optional. Uncomment the following if needed.
 

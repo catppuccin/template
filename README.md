@@ -40,14 +40,11 @@
 2. Open the app and go to **Preferences** > **Appearance** > **Import theme**.
 3. Select the downloaded flavor file.
 
-<!-- This section is optional. Uncomment the following if needed.
-
+<!-- The FAQ section is optional. Remove if needed.-->
 ## 🙋 FAQ
 
 - Q: **_"How can I do X?"_**\
   A: ...
-
--->
 
 ## 💝 Thanks to
 

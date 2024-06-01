@@ -36,16 +36,15 @@
 
 ## Usage
 
-1. Clone this repository locally
-2. Open the app's settings
-3. Select `import theme` and browse to where you cloned Catppuccin
-4. Select it
+1. Download the flavor of your choice.
+2. Open the app and go to **Preferences** > **Appearance** > **Import theme**.
+3. Select the downloaded flavor file.
 
-<!-- this section is optional -->
+<!-- The FAQ section is optional. Remove if needed.-->
 ## 🙋 FAQ
 
--	Q: **_"Where can I find the doc?"_**\
-	A: Run `:help theme`
+- Q: **_"How can I do X?"_**\
+  A: ...
 
 ## 💝 Thanks to
 
